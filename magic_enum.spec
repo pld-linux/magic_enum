@@ -2,7 +2,7 @@ Summary:	Static reflection for enums
 Summary(pl.UTF-8):	Statyczna refleksja dla enumów
 Name:		magic_enum
 Version:	0.9.7
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 #Source0Download: https://github.com/Neargye/magic_enum/releases
@@ -28,7 +28,6 @@ statyczną refleksję dla typów enum i pracę z dowolnym typem enum bez
 Summary:	Static reflection for enums
 Summary(pl.UTF-8):	Statyczna refleksja dla enumów
 Group:		Development/Libraries
-Requires:	%{name} = %{version}-%{release}
 Requires:	libstdc++-devel >= 6:7
 
 %description devel
